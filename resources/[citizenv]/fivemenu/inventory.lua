@@ -2,6 +2,7 @@ inv_array_legal = {
     {name="Bouteille d'eau", id=1, price=5, value=20},
     {name="Sandwich", id=2, price=10, value=20},
     {name="Filet Mignon", id=3, price=100, value=40},
+    {name="Canette de Coca", id=28,price=20,value=80},
 }
 
 inv_array = {
@@ -16,6 +17,7 @@ inv_array = {
     {name="Poisson", id=25, price=100, value=0},
     {name="Corps", id=26,price=100,value=0},
     {name="Corps traité", id=27,price=100,value=0},
+    {name="Canette de Coca", id=28,price=20,value=80},
 }
 
 inv_array_illlegal = {
