@@ -76,6 +76,7 @@ INSERT INTO `items` VALUES ('24', 'Roche traitée', '0', '0');
 INSERT INTO `items` VALUES ('25', 'Poisson', '5', '2');
 INSERT INTO `items` VALUES ('26', 'Corps', '0', '0');
 INSERT INTO `items` VALUES ('27', 'Corps traité', '0', '0');
+INSERT INTO `items` VALUES ('28', 'Canette de Coca', '80', '1');
 
 -- ----------------------------
 -- Table structure for jobs
